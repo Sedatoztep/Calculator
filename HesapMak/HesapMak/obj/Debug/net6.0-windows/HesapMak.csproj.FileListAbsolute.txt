@@ -1,0 +1,17 @@
+C:\Users\sedat\source\repos\HesapMak\HesapMak\bin\Debug\net6.0-windows\HesapMak.exe
+C:\Users\sedat\source\repos\HesapMak\HesapMak\bin\Debug\net6.0-windows\HesapMak.deps.json
+C:\Users\sedat\source\repos\HesapMak\HesapMak\bin\Debug\net6.0-windows\HesapMak.runtimeconfig.json
+C:\Users\sedat\source\repos\HesapMak\HesapMak\bin\Debug\net6.0-windows\HesapMak.dll
+C:\Users\sedat\source\repos\HesapMak\HesapMak\bin\Debug\net6.0-windows\HesapMak.pdb
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\HesapMak.csproj.AssemblyReference.cache
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\HesapMak.Form1.resources
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\HesapMak.csproj.GenerateResource.cache
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\HesapMak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\HesapMak.AssemblyInfoInputs.cache
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\HesapMak.AssemblyInfo.cs
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\HesapMak.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\HesapMak.dll
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\refint\HesapMak.dll
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\HesapMak.pdb
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\HesapMak.genruntimeconfig.cache
+C:\Users\sedat\source\repos\HesapMak\HesapMak\obj\Debug\net6.0-windows\ref\HesapMak.dll
